@@ -1,2 +1,2 @@
-Este es mi primer archivo de nano para mi repositorio practicas 2
-esta es la segunda linea de mi archivo
+este es mi primer archivo
+esta es la segunda linea 
